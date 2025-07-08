@@ -1,0 +1,16 @@
+{
+  "name": "deepseek-qa-web",
+  "version": "1.0.0",
+  "description": "基于 DeepSeek 的文件学习与问答 Web 应用",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
